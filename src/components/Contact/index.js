@@ -53,7 +53,7 @@ function ContactForm() {
           />
         </div>
         <div>
-          <label htmlFor="email">Email adress:</label>
+          <label htmlFor="email">Email address:</label>
           <input
             type="email"
             defaultValue={formState.email}
